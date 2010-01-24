@@ -1,0 +1,2 @@
+load_first:
+  - app/assistants/app-assistant.js

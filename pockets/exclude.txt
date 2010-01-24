@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.git/
+.gitignore
+.gitmoduiles
+pockets/
+mojo/
+Rakefile.rb
+sources.yaml

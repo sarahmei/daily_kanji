@@ -1,0 +1,17 @@
+[
+	{
+		"source": "app/assistants/app-assistant.js"
+	},
+	{
+		"source": "app/assistants/kanji-dictionary-assistant.js"
+	},
+	{
+		"source": "app/assistants/stage-assistant.js"
+	},
+	{
+		"source": "app/models/string-extensions.js"
+	},        
+	{
+		"source": "app/models/kanji-dictionary.js"
+	}
+]

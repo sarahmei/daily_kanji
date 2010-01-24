@@ -1,0 +1,9 @@
+{
+	"id": "com.mycompany.kanji",
+	"version": "1.0.0",
+	"vendor": "My Company",
+	"type": "web",
+	"main": "index.html",
+	"title": "Daily Kanji",
+	"icon": "icon.png"
+}
